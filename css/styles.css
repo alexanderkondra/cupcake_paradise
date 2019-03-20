@@ -27,3 +27,17 @@ h2  {
 .center{
   text-align: center;
 }
+
+.green-text {
+  color: green;
+}
+
+.fancy-font {
+  font-style: oblique;
+  font-family: fantasy;
+  font-stretch: ultra-expanded;
+}
+
+.center_text {
+  text-align: center;
+}
